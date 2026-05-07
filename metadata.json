@@ -1,0 +1,5 @@
+{
+  "name": "Check Media Project",
+  "description": "A military-grade news analysis tool that scrutinizes content for bias, author credibility, and factual integrity using a multi-module scoring system.",
+  "requestFramePermissions": []
+}
